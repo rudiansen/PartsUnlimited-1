@@ -1,7 +1,7 @@
 ﻿# Parts Unlimited
 
 [![Build Status](https://dev.azure.com/rudiansen-lab/Parts%20Unlimited%20Demo/_apis/build/status/PartsUnlimited-CI?branchName=master)](https://dev.azure.com/rudiansen-lab/Parts%20Unlimited%20Demo/_build/latest?definitionId=9&branchName=master)
-[![Board Status](https://dev.azure.com/rudiansen-lab/3710fb5f-9603-4b82-aeb1-38fc03e3101c/e4881f68-9c92-4db5-8395-c9e986c9bb03/_apis/work/boardbadge/ac49a16e-e1e6-409f-8a99-0fb1a85e943c?columnOptions=1)](https://dev.azure.com/rudiansen-lab/3710fb5f-9603-4b82-aeb1-38fc03e3101c/_boards/board/t/e4881f68-9c92-4db5-8395-c9e986c9bb03/Microsoft.RequirementCategory/)
+[![Board Status](https://dev.azure.com/rudiansen-lab/3710fb5f-9603-4b82-aeb1-38fc03e3101c/36c1580e-a06f-45fa-8c0c-f45c41bceb59/_apis/work/boardbadge/8fece733-ddb8-40b8-9d99-2d9e1d89cf32?columnOptions=1)](https://dev.azure.com/rudiansen-lab/3710fb5f-9603-4b82-aeb1-38fc03e3101c/_boards/board/t/36c1580e-a06f-45fa-8c0c-f45c41bceb59/Microsoft.RequirementCategory/)
 
 [![CodeQL Scanning](https://github.com/rudiansen/PartsUnlimited-1/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/rudiansen/PartsUnlimited-1/actions/workflows/codeql-analysis.yml)
 
