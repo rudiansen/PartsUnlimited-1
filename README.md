@@ -18,7 +18,7 @@ To get started, please proceed to the page <a href="http://microsoft.github.io/P
 ## PartsUnlimited - Key Features
 - Works with Visual Studio 2017
 - ASP.NET 5 support for Linux and Mono
-- Modern HTML5 responsive layout using bootstrap for mobile, tablet, and PC
+- ~~Modern HTML5 responsive layout using bootstrap for mobile, tablet, and PC~~ (_removed_)
 - Includes a Dockerfile and sample publishing profile to publish to a Docker container
 - Supports multiple authentication options including Azure Active Directory, Google, and Facebook
 - Azure Machine Learning product recommendations based on Order History 
