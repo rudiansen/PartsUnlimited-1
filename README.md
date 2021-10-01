@@ -11,8 +11,6 @@ The master branch of this repo contains the PartsUnlimted application, and deplo
 
 Any updates or changes to the application or labfiles can be made be merging changes into this **master** branch, but lab steps and graphics are sourced from the **gh-pages** branch. Updates to lab page configuration, the lab steps or graphics can be done through the <a href="https://github.com/Microsoft/PartsUnlimited/tree/gh-pages" target="_blank"><span style="color: #0066cc;" color="#0066cc">https://github.com/Microsoft/PartsUnlimited/tree/gh-pages</span></a> branch of this repo.
 
-
-
 To get started, please proceed to the page <a href="http://microsoft.github.io/PartsUnlimited" target="_blank"><span style="color: #0066cc;" color="#0066cc">http://microsoft.github.io/PartsUnlimited</span></a>
 
 ## PartsUnlimited - Key Features
